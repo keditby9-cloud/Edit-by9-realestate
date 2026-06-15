@@ -1,0 +1,6 @@
+{
+  "name": "Luxury Real Estate Portal",
+  "description": "An award-winning luxury real estate portal showcasing premium estates with elite design, rich animations, and high-converting agent interaction details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
